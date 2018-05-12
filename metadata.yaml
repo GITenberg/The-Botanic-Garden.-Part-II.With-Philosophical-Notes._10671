@@ -1,5 +1,8 @@
 _repo: The-Botanic-Garden.-Part-II.With-Philosophical-Notes._10671
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Darwin, Erasmus
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3099
     wikipedia: http://en.wikipedia.org/wiki/Erasmus_Darwin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10671#The-Botanic-Garden.-Part-II.With-Philosophical-Notes.
 gutenberg_bookshelf:
 - Botany
 - Horticulture
